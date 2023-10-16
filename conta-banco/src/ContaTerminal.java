@@ -13,10 +13,10 @@ public class ContaTerminal {
 
 
         System.out.println("Por favor, digite o número da Agencia !");
-        int Agencia = scanner.nextInt();
+        int Numero = scanner.nextInt();
 
         System.out.println("Por favor, digite o número número da conta !");
-        String Numero = scanner.next();
+        String Agencia = scanner.next();
 
         scanner.nextLine();
 
